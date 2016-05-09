@@ -1,5 +1,5 @@
 # setUpTextures
-This is an action that sets up all your textures for the Unreal Engine. It works seamlessly with Soulburn Scripts.
+This is a photoshop action which sets up all your textures for the Unreal Engine. It works seamlessly with Soulburn Scripts.
 
 You can download the Soulburn Scripts from Neil Blevin's website here:
 
